@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment0.text="Getter"\ methods\ or\ accessor\ *
+comment1.params=
+comment1.target=java.lang.String\ getAddress()
+comment2.params=
+comment2.target=int\ getAge()
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment3.text="Setter"\ methods\ or\ mutator\ *
+comment4.params=newAddress
+comment4.target=void\ setAddress(java.lang.String)
+comment5.params=newAge
+comment5.target=void\ setAge(int)
+numComments=6

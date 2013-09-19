@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getResult()
+comment1.params=a\ b
+comment1.target=void\ calculate(int,\ int)
+numComments=2

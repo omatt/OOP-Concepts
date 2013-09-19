@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=name\ address\ age
+comment0.target=Employee(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=double\ computePay()
+comment2.params=
+comment2.target=void\ mailCheck()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getAddress()
+comment6.params=
+comment6.target=int\ getAge()
+comment7.params=newAddress
+comment7.target=void\ setAddress(java.lang.String)
+numComments=8
