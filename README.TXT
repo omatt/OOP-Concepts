@@ -9,6 +9,6 @@ PURPOSE OF PROJECT: This project contains samples of implementation of
 four (4) different OOP Concepts: Encapsulation, Abstraction, Polymorphism, and Inheritance.
 
 VERSION or DATE:    2013/09/09 (Last Revision)
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT:  Run package file with BlueJ.
 AUTHORS:    Reyes, Omar Matthew B.
 USER INSTRUCTIONS:
