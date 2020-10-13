@@ -7,6 +7,8 @@ This project contains samples of implementation of four (4) different OOP Concep
 * Polymorphism 
 * Inheritance
 
+Recommended to be run on [BlueJ](https://bluej.org/) for easier visualization.
+
 ### Copyright
 
     Copyright © 2015 Omar Matthew Reyes
